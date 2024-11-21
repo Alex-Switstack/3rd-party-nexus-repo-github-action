@@ -19,7 +19,7 @@ inputs:
     required: true
   coordinates:
     description: 'Component coordinates in key=value format. e.g. groupId=com.example artifactId=app version=1.0.0'
-    required: true
+    required: false
   assets:
     description: 'Component assets in key=value format. e.g. extension=jar'
     required: true
